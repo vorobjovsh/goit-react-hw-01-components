@@ -18,7 +18,7 @@ function Profile({
 							alt="User avatar"
 							className={s.avatar}
 						/>
-						<p className={s.name}>{username}</p>
+						<p className={s.name}>{username123}</p>
 						<p className={s.tag}>@{tag}</p>
 						<p className={s.location}>{location}</p>
 					</div>

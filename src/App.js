@@ -18,6 +18,7 @@ function App() {
         likes={user.stats.likes}
       />
       <Statistics title="Upload stats" stats={data} />
+      <Statistics stats={data} />
     </div>
   );
 }
